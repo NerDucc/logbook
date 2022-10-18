@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "831777011242",
+    "project_id": "rentalz2101gw",
+    "storage_bucket": "rentalz2101gw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831777011242:android:129b4d97f7d6dcc2b1b553",
+        "android_client_info": {
+          "package_name": "com.example.firebase_carousel_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKakODbMZWO0cmi18mNn7n2wXIT2-j5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831777011242:android:7482b412b60e2353b1b553",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKakODbMZWO0cmi18mNn7n2wXIT2-j5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831777011242:android:73186710e410a674b1b553",
+        "android_client_info": {
+          "package_name": "com.example.rentalz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKakODbMZWO0cmi18mNn7n2wXIT2-j5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831777011242-h6d9hq54c26voht4ot63kph7v6qdcfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
