@@ -1,7 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/logbook/dowload.dart';
+import 'package:flutter_application_1/logbook/home.dart';
+import 'package:flutter_application_1/logbook/my_image.dart';
 import 'package:flutter_application_1/logbook/route_name.dart';
-import 'package:flutter_application_1/logbook/welcome.dart';
 import 'firebase_options.dart';
 
 // void main() {
@@ -25,7 +27,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       routes: {
         RouteNames.Welcome : (context) => const Welcome(),
-        // RouteNames.MyImage:(context) => const HomeScreen(),
+        RouteNames.MyImage:(context) => const MyImage(),
+        RouteNames.Dowload:(context) => const Dowload()
       },
       initialRoute: RouteNames.Welcome,
     );
